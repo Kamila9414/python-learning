@@ -1,1 +1,1 @@
-print("Hello, Python & Git!")
+print("drugi commit")
